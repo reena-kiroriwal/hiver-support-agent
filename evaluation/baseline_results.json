@@ -1,0 +1,13 @@
+{
+  "golden_examples": 200,
+  "trivial_baseline": {
+    "majority_intent": "playback_issue",
+    "accuracy": 0.02,
+    "macro_f1": 0.0035650623885918
+  },
+  "simple_baseline": {
+    "method": "TF-IDF + Logistic Regression",
+    "accuracy": 0.455,
+    "macro_f1": 0.44898465974538515
+  }
+}
