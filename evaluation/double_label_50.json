@@ -1,0 +1,402 @@
+[
+  {
+    "id": 164,
+    "text": "@SpotifyCares Yes",
+    "annotator_1_intent": "other",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 29,
+    "text": "@115888 we want spotify in India....\nPlease it is a humble request please launch spotify in India \n#SpotifyIndia",
+    "annotator_1_intent": "availability_region",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "availability_region",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 7,
+    "text": "@SpotifyCares Nope, I was just doing my homework with my music and got an ad. It was the first time it ever happened so I don’t really mind anymore. Thnx",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 190,
+    "text": "Hey @SpotifyCares - why can't I update my payment details?",
+    "annotator_1_intent": "payment_billing",
+    "annotator_1_escalate": true,
+    "annotator_2_intent": "payment_billing",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 71,
+    "text": "@115888 it is disappointing that you are not supporting Samsung tvs before 2015. I’m considering to cancel the subscription just because of it.",
+    "annotator_1_intent": "app_technical_issue",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 63,
+    "text": "@SpotifyCares Now, I still can't access Hulu via my Spotify subscription. Help?",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 58,
+    "text": "@117168 @SpotifyCares @115888 is there a valid reason why I can't edit the order of my playlists on my Android device? That should really be something catered to all devices.",
+    "annotator_1_intent": "playlist_library",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 36,
+    "text": "I love that @115888 autoplays music when my playlists end but after my film score playlist ends there's way too much Randy Newman",
+    "annotator_1_intent": "playlist_library",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 189,
+    "text": "@117168 why was Jersey Devil by Ducktails removed?",
+    "annotator_1_intent": "music_availability",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "music_availability",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 27,
+    "text": "@115888 Will this be a forever thing? Or how long will this last?",
+    "annotator_1_intent": "general_question",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "general_question",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 174,
+    "text": "@115888 why is my premium subscription have ads all of a sudden and won’t let me get rid of that?",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 140,
+    "text": "@.spotify will there be any promos soon 😭😭",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 23,
+    "text": "Yeah.. I've been demanding for it for so long. Come on, @SpotifyCares. Please get 2NE1's first mini album available on Spotify. https://t.co/UNRVe8hwGm",
+    "annotator_1_intent": "music_availability",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "music_availability",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 152,
+    "text": "@115888 is the new taylor swift album going to be on spotify?",
+    "annotator_1_intent": "music_availability",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "music_availability",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 109,
+    "text": "@115888 needs to update their app to support iPhone X already",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "app_technical_issue",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 9,
+    "text": "@115888 why do my playlists always have 1 or 2 less songs in them than the mobile app says?  PC has the correct number...",
+    "annotator_1_intent": "app_technical_issue",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 8,
+    "text": "@SpotifyCares amen to that",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 24,
+    "text": "@spotifycares Hi! trying to find 3 month gift subscription I bought 2/3 yrs ago for lil' sis that hasn't been redeemed. How can I find it?",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 56,
+    "text": "@SpotifyCares Sorry I was born in 1986, what is DM? DO you mean private message?",
+    "annotator_1_intent": "general_question",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "general_question",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 60,
+    "text": "@SpotifyCares I made a playlist secret but now can't seem to find it anywhere. How do I access it again?",
+    "annotator_1_intent": "playlist_library",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 130,
+    "text": "@SpotifyCares Hello Spotify - i can log into my account and even edit, but I’m somehow locked out of managing my Family Plan account.",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": true,
+    "annotator_2_intent": "account_login",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 155,
+    "text": "@SpotifyCares Samsung J7 Prime, Android 6.0.1, version 8.4.23.784? it updated when i was sleeping. i used it prior the update.",
+    "annotator_1_intent": "app_technical_issue",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "app_technical_issue",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 198,
+    "text": "It’d be pretty neat if I could see who follows my playlists @115888",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 144,
+    "text": "@SpotifyCares Can you cancel my account please?",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 51,
+    "text": "@115888 @SpotifyCares \n\nThis needs to change!\n\n#EnoughIsEnoughAndItsTimeForAChange https://t.co/VDj68yKOBa",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 167,
+    "text": "Hey @115888 @116130 When are you going to support Chromecast devices from the Desktop client ? Sucks having to use mobile app.",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 192,
+    "text": "@115888 yea can i get uhhhh the feature where u press down on tracks to preview them back",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 108,
+    "text": "@SpotifyCares It was probably a bug or some cache issues, I got it to work now, thanks!",
+    "annotator_1_intent": "app_technical_issue",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "app_technical_issue",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 57,
+    "text": "@115888 hi, how can I get help w issues on on getting a password reset email",
+    "annotator_1_intent": "account_login",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "account_login",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 115,
+    "text": "@SpotifyCares Hey CB, I already have that! I was wondering if the new @115888 @115940 partnership benefits Starbucks Partners",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 151,
+    "text": "@SpotifyCares how do I get onto an account that has premium but I have no access to? Or cancel it?",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "account_login",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 72,
+    "text": "@SpotifyCares @115888 can you make Spotify worldwide, a lot of us wants to use it but it's not available in our country",
+    "annotator_1_intent": "availability_region",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "availability_region",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 2,
+    "text": "@SpotifyCares well i've updated the app and it looks like it's getting better. if the problem is back, i'll ask for your help. thank you",
+    "annotator_1_intent": "app_technical_issue",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 41,
+    "text": "@115888 really played my life by removing my favorite GNR song https://t.co/ShVcQVsBb0",
+    "annotator_1_intent": "music_availability",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "music_availability",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 186,
+    "text": "@SpotifyCares Been listening to my 'Time Capsule' playlist all evening. So good. 👌🏻",
+    "annotator_1_intent": "playlist_library",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 88,
+    "text": "@SpotifyCares I am the owner of a family Spotify account.  There are four of us who live in the same house. Only two can activate....",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 169,
+    "text": "@115888 - if https://t.co/1JCjhPNULt have been charging me £9.99 via my phone bill for Premium service - yet I am still on Free with you - who refunds me the charges? Thanks.",
+    "annotator_1_intent": "payment_billing",
+    "annotator_1_escalate": true,
+    "annotator_2_intent": "payment_billing",
+    "annotator_2_escalate": true
+  },
+  {
+    "id": 40,
+    "text": "@739992 @115888 Update came this morning 🙌",
+    "annotator_1_intent": "other",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 182,
+    "text": "@SpotifyCares I am also concerned about my personal details on my account and losing all of my many playlists (I pay for Premium and Spotify is the only site I use for my music).",
+    "annotator_1_intent": "account_login",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 87,
+    "text": "Who can put me in touch with business development at @115888 / @125633 ? I have a big idea to introduce to the platform",
+    "annotator_1_intent": "other",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 191,
+    "text": "@SpotifyCares my downloaded library is in the minus? Why? https://t.co/CmGVDVIDKZ",
+    "annotator_1_intent": "playlist_library",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "playlist_library",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 183,
+    "text": "@SpotifyCares Using an iPhone 6s on latest iOS. Can we show some love for older models that still work fine?? 😫😫",
+    "annotator_1_intent": "feature_request",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 98,
+    "text": "@115888 you can pre-save music??? Do tell",
+    "annotator_1_intent": "general_question",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "feature_request",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 25,
+    "text": "@SpotifyCares It was recently. What changed ?",
+    "annotator_1_intent": "other",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "general_question",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 92,
+    "text": "@SpotifyCares I don’t know how I haven’t noticed already haha thanks 💕\nhttps://t.co/rGJpBnZalw",
+    "annotator_1_intent": "other",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 89,
+    "text": "Can't log in and don't have time to navigate that nightmare of a help center to find a point of external communication @188 WYA? https://t.co/Ym3HHcdCpA",
+    "annotator_1_intent": "account_login",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "account_login",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 68,
+    "text": "@SpotifyCares i got problems w my spotify need help pls",
+    "annotator_1_intent": "other",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "other",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 12,
+    "text": "@SpotifyCares I got charged for the student premium out of my account for 4.99 but realized I’m not eligible and it won’t let me register. I’d like my money back",
+    "annotator_1_intent": "premium_subscription",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "premium_subscription",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 118,
+    "text": "Need help recovering my spotify account. It is recognising my username but not my email address @SpotifyCares",
+    "annotator_1_intent": "account_login",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "account_login",
+    "annotator_2_escalate": false
+  },
+  {
+    "id": 138,
+    "text": "@SpotifyCares Everytime i contact support they screw this up and youre losing a customer for life at this point. I want my Facebook info gone. Completely fucking gone. I never ever ever want to receive a welcome back to Facebook email ever again after signing in to Spotify.",
+    "annotator_1_intent": "account_login",
+    "annotator_1_escalate": false,
+    "annotator_2_intent": "account_login",
+    "annotator_2_escalate": false
+  }
+]

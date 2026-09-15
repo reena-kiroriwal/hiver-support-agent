@@ -1,0 +1,19 @@
+# Large raw dataset
+data/twcs.csv
+
+# Generated embeddings
+data/spotify_case_embeddings.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Generated evaluation outputs
+evaluation/pipeline_results.json

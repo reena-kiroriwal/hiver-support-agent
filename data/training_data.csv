@@ -1,0 +1,35 @@
+text,intent
+My songs won't play,playback_issue
+Spotify keeps stopping when I play music,playback_issue
+Music is not playing,playback_issue
+Songs keep pausing,playback_issue
+The Spotify app keeps crashing,app_technical_issue
+Spotify is not working on my phone,app_technical_issue
+The app is very slow and glitchy,app_technical_issue
+I can't log into my account,account_login
+I cannot access my Spotify account,account_login
+I forgot my password and can't sign in,account_login
+I paid for Premium but my account says Free,premium_subscription
+My Premium subscription isn't working,premium_subscription
+I want to cancel my Premium,premium_subscription
+I was charged twice,payment_billing
+I was charged multiple times for Spotify,payment_billing
+My payment was declined,payment_billing
+Why is this song unavailable?,music_availability
+This album is missing songs,music_availability
+Why was this song removed?,music_availability
+My playlists disappeared,playlist_library
+I can't find my saved songs,playlist_library
+My playlist is not showing,playlist_library
+Can you add lyrics to Spotify?,feature_request
+I want Spotify to add a new feature,feature_request
+Please bring back this feature,feature_request
+Why isn't Spotify available in my country?,availability_region
+Is Spotify available in India?,availability_region
+When will Spotify be available in my country?,availability_region
+Can I use Spotify on Roku?,general_question
+How does Spotify work?,general_question
+Can I use Spotify on my TV?,general_question
+This is ridiculous and I need help,other
+I have a problem with Spotify,other
+Please help me with this issue,other

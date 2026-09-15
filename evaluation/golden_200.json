@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "text": "@SpotifyCares Thank you for putting with me but that’s not quite the problem I have. Okay so see how there is 2 playlists called “under” well 1 of those is a radio. Now I can’t delete the radio the same way I can delete my playlist. So how do I delete it? https://t.co/3RSNdvdb29",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 2,
+    "text": "@SpotifyCares well i've updated the app and it looks like it's getting better. if the problem is back, i'll ask for your help. thank you",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 3,
+    "text": "First Spotify said they can't validate I'm a student, even though they never asked for my college email which I can access. Then they charge me for Spotify student, AND DONT EVEN GIVE ME THE PREMIUM??? .@115888 .@SpotifyCares EXCUSE ME?? https://t.co/FqhoQQ1r6U",
+    "provisional_intent": "account_login",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 4,
+    "text": "@116130 Just a wild idea, but would it ever be possible to show normal and deluxe albums as the same album just with extra tracks?",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 5,
+    "text": "y isn’t spotify working",
+    "provisional_intent": "availability_region",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 6,
+    "text": "@115888 how many times do I have to tell you that I hate Modest Mouse",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 7,
+    "text": "@SpotifyCares Nope, I was just doing my homework with my music and got an ad. It was the first time it ever happened so I don’t really mind anymore. Thnx",
+    "provisional_intent": "payment_billing",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 8,
+    "text": "@SpotifyCares amen to that",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 9,
+    "text": "@115888 why do my playlists always have 1 or 2 less songs in them than the mobile app says?  PC has the correct number...",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 10,
+    "text": "@SpotifyCares I have the student + Hulu premium account but got charged 10.68 instead of the usual 5.13. What happened?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 11,
+    "text": "@115888 cara bayarnya bagaimana? Tidak ada menu payment dalam apps dan web nya",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 12,
+    "text": "@SpotifyCares I got charged for the student premium out of my account for 4.99 but realized I’m not eligible and it won’t let me register. I’d like my money back",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 13,
+    "text": "@SpotifyCares Certainly I am",
+    "provisional_intent": "playback_issue",
+    "intent": "playback_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 14,
+    "text": "@SpotifyCares what is this?? This has happened before but I'm wondering why does spotify keep doing this https://t.co/5HloZV88wX",
+    "provisional_intent": "music_availability",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 15,
+    "text": "@SpotifyCares done!",
+    "provisional_intent": "playback_issue",
+    "intent": "playback_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 16,
+    "text": "When will the reputation album be available on Spotify???",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 17,
+    "text": "@SpotifyCares It never told me to cancel before my free trial ended and now im down 10 bucks rip",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 18,
+    "text": "@SpotifyCares I got an email saying my email address has been changed and it wasn’t me. Halp please!",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 19,
+    "text": "WHY IS THIS ON MY DISCOVER WEEKLY. @115888 what’s going on. https://t.co/DBkIAEgto0",
+    "provisional_intent": "music_availability",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 20,
+    "text": "@SpotifyCares why was I charged 129 pesos in my prepaid mobile account instead of just 9pesos for 3months Premium Trial?",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 21,
+    "text": "@SpotifyCares  Hi! Is #AlmostLikePraying  not available in the UK? :-(",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 22,
+    "text": "@SpotifyCares I DMd on issues I am having when multitasking on the iPhone X",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 23,
+    "text": "Yeah.. I've been demanding for it for so long. Come on, @SpotifyCares. Please get 2NE1's first mini album available on Spotify. https://t.co/UNRVe8hwGm",
+    "provisional_intent": "general_question",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 24,
+    "text": "@spotifycares Hi! trying to find 3 month gift subscription I bought 2/3 yrs ago for lil' sis that hasn't been redeemed. How can I find it?",
+    "provisional_intent": "playlist_library",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 25,
+    "text": "@SpotifyCares It was recently. What changed ?",
+    "provisional_intent": "payment_billing",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 26,
+    "text": "@SpotifyCares hey! I just got subscribed to spotify premium for students and I got charged twice what do I do?",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 27,
+    "text": "@115888 Will this be a forever thing? Or how long will this last?",
+    "provisional_intent": "music_availability",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 28,
+    "text": "@SpotifyCares I had a university subscription, the payment was canceled last week for lack of money.\n—",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 29,
+    "text": "@115888 we want spotify in India....\nPlease it is a humble request please launch spotify in India \n#SpotifyIndia",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 30,
+    "text": "@SpotifyCares We're in! Thank you!",
+    "provisional_intent": "availability_region",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 31,
+    "text": "@SpotifyCares \"epic collection friend. your library is all filled up...\" Are you kidding me?",
+    "provisional_intent": "playback_issue",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 32,
+    "text": "Still no #reputation on @115888!!\nSad.. Very sad... @121574 @118062",
+    "provisional_intent": "app_technical_issue",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 33,
+    "text": "@115888 having serious trouble upgrading to your family premium and I’m offered no help. Not pleased.",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 34,
+    "text": "Lol @115888, why on earth would this be first? https://t.co/jK0lo1AFhv",
+    "provisional_intent": "music_availability",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 35,
+    "text": "@SpotifyCares and they have been being charged since 2013 with almost 0 use of Spotify.",
+    "provisional_intent": "other",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 36,
+    "text": "I love that @115888 autoplays music when my playlists end but after my film score playlist ends there's way too much Randy Newman",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 37,
+    "text": "@SpotifyCares Are you guys planning on fixing the Roku / Now TV app? I can’t see any of my playlists on there. Search options are also limited. \nPretty useless overall.",
+    "provisional_intent": "general_question",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 38,
+    "text": "Will BTOB's Complete album ever comeback on spotify? @SpotifyCares",
+    "provisional_intent": "general_question",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 39,
+    "text": "@SpotifyCares There is an unknown device connected to my Spotify account under the name of \"PS4-970\". I have spoken to the live chat team before, who claimed to have solved this, they clearly did not. It is still happening. Please help ASAP! #Spotify #SpotifyCares",
+    "provisional_intent": "other",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 40,
+    "text": "@739992 @115888 Update came this morning 🙌",
+    "provisional_intent": "music_availability",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 41,
+    "text": "@115888 really played my life by removing my favorite GNR song https://t.co/ShVcQVsBb0",
+    "provisional_intent": "music_availability",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 42,
+    "text": "@117168 I'm trying to update my payment method and I keep getting this error: The CSRF token is invalid. Please try to resubmit the form.",
+    "provisional_intent": "playback_issue",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 43,
+    "text": "@SpotifyCares Spotify deleted my mom and brother from my family account.",
+    "provisional_intent": "account_login",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 44,
+    "text": "@SpotifyCares WHERE DID BABY COME BACK BY NO MERCY GO WHAT THE FUCK YALL",
+    "provisional_intent": "app_technical_issue",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 45,
+    "text": "@115888 when it'll be starts in India?",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 46,
+    "text": "Hi @115888, I accidentally listened to a mumble rap song last week, now my whole Discover Weekly playlist is mumble rap. How do I reset it?",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 47,
+    "text": "hey @115888! your app is working properly! https://t.co/wLzoGJQCV3",
+    "provisional_intent": "app_technical_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 48,
+    "text": "@115888 why can't the song length be next to the title just wondering",
+    "provisional_intent": "app_technical_issue",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 49,
+    "text": "@SpotifyCares iPhone 6 on 3 ...it’s only happened recently all my updates are done so I don’t understand why",
+    "provisional_intent": "general_question",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 50,
+    "text": "@SpotifyCares why isnt @7322 song \"Hang Me Out To Dry\" on spotify",
+    "provisional_intent": "music_availability",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 51,
+    "text": "@115888 @SpotifyCares \n\nThis needs to change!\n\n#EnoughIsEnoughAndItsTimeForAChange https://t.co/VDj68yKOBa",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 52,
+    "text": "@115888 I tried to sign up for this but it says that I'm not eligible...I currently pay $9.99 per month for premium Spotify so how can I get this deal instead?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 53,
+    "text": "I'm pretty sad that the new album of @118062 is not available for Streaming on @115888 @115948 or @GooglePlayMusic \n😑",
+    "provisional_intent": "playback_issue",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 54,
+    "text": "Yo @115888 when the hell are you arriving in India? Tired of using VPN to access it",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 55,
+    "text": "dear @115888, please make a way for me to block taylor swift. #ruinedplaylists",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 56,
+    "text": "@SpotifyCares Sorry I was born in 1986, what is DM? DO you mean private message?",
+    "provisional_intent": "payment_billing",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 57,
+    "text": "@115888 hi, how can I get help w issues on on getting a password reset email",
+    "provisional_intent": "general_question",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 58,
+    "text": "@117168 @SpotifyCares @115888 is there a valid reason why I can't edit the order of my playlists on my Android device? That should really be something catered to all devices.",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 59,
+    "text": "@SpotifyCares since I installed macOS High Sierra, the Spotify app often uses 100% or even 150% of my CPU. Bug?",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 60,
+    "text": "@SpotifyCares I made a playlist secret but now can't seem to find it anywhere. How do I access it again?",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 61,
+    "text": "@SpotifyCares hey, I pay for spotify premium and every other week, sometimes twice a week all my music undownloads.",
+    "provisional_intent": "playback_issue",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 62,
+    "text": "@SpotifyCares and on top of that there are hundreds of recordings of \"my romance\" THE SONG that are not showing up. 3/3",
+    "provisional_intent": "playlist_library",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 63,
+    "text": "@SpotifyCares Now, I still can't access Hulu via my Spotify subscription. Help?",
+    "provisional_intent": "account_login",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 64,
+    "text": "@SpotifyCares No error messages, responsiveness gets progressively more sluggish until music stops playing when the system freezes.",
+    "provisional_intent": "playback_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 65,
+    "text": "@125633 Hi Team, is it possible for me to change the Spotify account associated with my Artist account?",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 66,
+    "text": "yo @115888 can you add mixtapes to your collection please",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 67,
+    "text": "@115888 I have forgotten my log in details, what can I do?",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 68,
+    "text": "@SpotifyCares i got problems w my spotify need help pls",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 69,
+    "text": "Why I can’t find @335001’ entire ‘Breakout’ album on @115888 ???",
+    "provisional_intent": "playlist_library",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 70,
+    "text": "@SpotifyCares Didn’t work",
+    "provisional_intent": "general_question",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 71,
+    "text": "@115888 it is disappointing that you are not supporting Samsung tvs before 2015. I’m considering to cancel the subscription just because of it.",
+    "provisional_intent": "premium_subscription",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 72,
+    "text": "@SpotifyCares @115888 can you make Spotify worldwide, a lot of us wants to use it but it's not available in our country",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 73,
+    "text": "@115888 need help with my account please",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 74,
+    "text": "@SpotifyCares hey! I used to log in with FB but shut my acct and can’t access my Spotify!! 😭 help!",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 75,
+    "text": "@262202 Please can you get your new hires to research how I get my playlist to sort be 'most listened to' ! @SpotifyCares @115888",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 76,
+    "text": "@115888 Can you do your 99p deal again thanks lol",
+    "provisional_intent": "feature_request",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 77,
+    "text": "@SpotifyCares I’m on an iPhone 7 and I have the Spotify version 8.4.22 , I’ve tried updating it but it hasn’t worked at all. https://t.co/j0Jj37yWHP",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 78,
+    "text": "@SpotifyCares why does your app limit how much I can download to my own phone anyway?",
+    "provisional_intent": "general_question",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 79,
+    "text": "Hey @125633, just looking through my analytics. What falls under \"All Other Sources\"?",
+    "provisional_intent": "playlist_library",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 80,
+    "text": "@SpotifyCares OSX High Sierra -&gt; Spotify 1.0.68.407.g6864aaaf -&gt; Onkyo NR-656. Once I set Spotify to send to \"This computer\", scrobbling seems to work as Last.fm reports \"Scrobbling now\" then. Does not happen when Onkyo is receiving the sound.",
+    "provisional_intent": "feature_request",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 81,
+    "text": "Hindi ako makadownload ng \n@115888 😭😭😭",
+    "provisional_intent": "playback_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 82,
+    "text": "@115888 please give me one good reason Drake’s Take Care album is gone...",
+    "provisional_intent": "music_availability",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 83,
+    "text": "All I want for Christmas is for Metamorphosis by Hilary Duff to be added to @115888 @116380",
+    "provisional_intent": "premium_subscription",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 84,
+    "text": "@SpotifyCares It does meet all requirements. I’ve used a prepaid card many times previously. Not sure why they are suddenly not being accepted?",
+    "provisional_intent": "playback_issue",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 85,
+    "text": "@SpotifyCares Loving the extra space with the update for iPhone X",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 86,
+    "text": "@SpotifyCares Is reputation by @118062  coming this Friday @118061",
+    "provisional_intent": "music_availability",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 87,
+    "text": "Who can put me in touch with business development at @115888 / @125633 ? I have a big idea to introduce to the platform",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 88,
+    "text": "@SpotifyCares I am the owner of a family Spotify account.  There are four of us who live in the same house. Only two can activate....",
+    "provisional_intent": "account_login",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 89,
+    "text": "Can't log in and don't have time to navigate that nightmare of a help center to find a point of external communication @188 WYA? https://t.co/Ym3HHcdCpA",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 90,
+    "text": "@115888 Have you tried moving album covers? I wish there was more art.",
+    "provisional_intent": "payment_billing",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 91,
+    "text": "Dear @115888, if you ask your subscribers to reset their passwords, greeting them with \"The CSRF token is invalid. Please try to resubmit the form. \" is not very user-friendly. You locked me out of your service...",
+    "provisional_intent": "app_technical_issue",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 92,
+    "text": "@SpotifyCares I don’t know how I haven’t noticed already haha thanks 💕\nhttps://t.co/rGJpBnZalw",
+    "provisional_intent": "general_question",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 93,
+    "text": "@SpotifyCares It only shuffles through a small selection of my toys library.",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 94,
+    "text": "@SpotifyCares i can't log into my account on desktop/mobile app using facebook credentials, can you help me please?",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 95,
+    "text": "@SpotifyCares never mind, it's 'sound' in general, videos on youtube are doing it too, so it's not you. ;)",
+    "provisional_intent": "playback_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 96,
+    "text": "@SpotifyCares It worked thank you very much for the assistance!!!!",
+    "provisional_intent": "app_technical_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 97,
+    "text": "@115888 help me out",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 98,
+    "text": "@115888 you can pre-save music??? Do tell",
+    "provisional_intent": "playback_issue",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 99,
+    "text": "If I go to the @115888 website on my phone, why can't it detect I also have the app on my phone and log me in automatically?",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 100,
+    "text": "Hi. When will touch id be available for log-in? TY @115888",
+    "provisional_intent": "availability_region",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 101,
+    "text": "@SpotifyCares New Music Friday Canada hasn’t updated, still a week behind, the day has begun ya weenies",
+    "provisional_intent": "playback_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 102,
+    "text": "@SpotifyCares I can't log in to my account and i'm a premium member. when I try to go to the password reset page, I get error: \"The CSRF token is invalid. Please try to resubmit the form.\" - this has been going on for 3 days. HELP!!",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 103,
+    "text": "I seriously don’t know how to use Spotify",
+    "provisional_intent": "general_question",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 104,
+    "text": "@SpotifyCares tell me how to do screenshot on chrome",
+    "provisional_intent": "general_question",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 105,
+    "text": "@SpotifyCares Do I have to wait until the first day if school to sign up or when can I?",
+    "provisional_intent": "feature_request",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 106,
+    "text": "@SpotifyCares Thanks! Windows 10 Pro version 1703. Spotify 1.0.66.478.g1296534d",
+    "provisional_intent": "general_question",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 107,
+    "text": "@SpotifyCares I think I got it figured out for now. I’ll let you know if I still have issues. Thank you!",
+    "provisional_intent": "playback_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 108,
+    "text": "@SpotifyCares It was probably a bug or some cache issues, I got it to work now, thanks!",
+    "provisional_intent": "payment_billing",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 109,
+    "text": "@115888 needs to update their app to support iPhone X already",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 110,
+    "text": "@SpotifyCares how do I get premium on phone",
+    "provisional_intent": "general_question",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 111,
+    "text": "@SpotifyCares I want to pay through the network(Thailand) and no promotion 3 months ฿13 https://t.co/GBGqmLlGB2",
+    "provisional_intent": "premium_subscription",
+    "intent": "payment_billing",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 112,
+    "text": "@SpotifyCares S8+ android\n8 4 22 857 armv7",
+    "provisional_intent": "playback_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 113,
+    "text": "@SpotifyCares I am a premium member too, so it's not that either. My playlist simply skips over the all Usher songs.",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 114,
+    "text": "Furious with @117168 @hulu_support It's not letting me connect the accounts! https://t.co/2gUuvG67CL",
+    "provisional_intent": "other",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 115,
+    "text": "@SpotifyCares Hey CB, I already have that! I was wondering if the new @115888 @115940 partnership benefits Starbucks Partners",
+    "provisional_intent": "payment_billing",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 116,
+    "text": "@SpotifyCares Spotify doesn’t appear in my control center since updating to ios11. Help!",
+    "provisional_intent": "availability_region",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 117,
+    "text": "@115888 Last days i make a family account, the help off spotify was great thank for all 👏",
+    "provisional_intent": "payment_billing",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 118,
+    "text": "Need help recovering my spotify account. It is recognising my username but not my email address @SpotifyCares",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 119,
+    "text": "Either @115888 or @SpotifyCares .. whoever can help me first 😬 no rush. I just have a bitchy teenager with no music to shut him with lol",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 120,
+    "text": "Anyone else getting this weird little text bar at the bottom of their Spotify app screen? https://t.co/ATto3ZHlW8",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 121,
+    "text": "@SpotifyCares Mijn Spotify account is geblokkeerd doordat ik de betaling heb laten terugboeken doordat we nu een family account hebben",
+    "provisional_intent": "account_login",
+    "intent": "payment_billing",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 122,
+    "text": "PLEASE STOP @115888 I just want to listen to some Queen https://t.co/61ydyWDigp",
+    "provisional_intent": "feature_request",
+    "intent": "playback_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 123,
+    "text": "@SpotifyCares problem logging in. Checked the help site. It lets me in for 10 seconds or so and I can see everything and then kicks me out.",
+    "provisional_intent": "other",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 124,
+    "text": "@SpotifyCares I am one happy camper! Thanks for your help, you guys are awesome! 👍🏻👍🏻👍🏻",
+    "provisional_intent": "other",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 125,
+    "text": "#Spotify @115888 I would like to use my SD card as storage, but couldn't see in the seetings the storage. I really think about to quit my Spotify membership.",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 126,
+    "text": "Anyone else having trouble the @116130 iPhone app since the last update?",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 127,
+    "text": "100% done with @115888. I’m tired of hitting this 10k song limit. Canceling. @67562 @117168 @SpotifyCares https://t.co/DQYXMX1Pc5",
+    "provisional_intent": "music_availability",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 128,
+    "text": "@SpotifyCares iPhone 7\niOS 11.0.2\nSpotify version 8.4.22.515",
+    "provisional_intent": "general_question",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 129,
+    "text": "@SpotifyCares @115888 See also this video @SpotifyCares https://t.co/7HaiomSuOL",
+    "provisional_intent": "music_availability",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 130,
+    "text": "@SpotifyCares Hello Spotify - i can log into my account and even edit, but I’m somehow locked out of managing my Family Plan account.",
+    "provisional_intent": "account_login",
+    "intent": "premium_subscription",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 131,
+    "text": "@SpotifyCares To whom ever I am speaking to, thanks for the help!✨⭐️ If I have anymore concerns, best believe I will not hesitate to ask!😇",
+    "provisional_intent": "feature_request",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 132,
+    "text": "@SpotifyCares forced off of my premium. I don’t know if I want to buy it again if the free guys get shit on by greed",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 133,
+    "text": "@SpotifyCares but I can't find preferences anymore, so I just blocked all Spotify notifications instead,",
+    "provisional_intent": "playlist_library",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 134,
+    "text": "@SpotifyCares I think there's something wrong with Discover feature. Only my Discover Weekly shows, and some random \"Throwback Thursday\" playlists. None of the usual stuff...",
+    "provisional_intent": "other",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 135,
+    "text": "@SpotifyCares having issues logging into my account, I think my account was compromised.",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 136,
+    "text": "@SpotifyCares @116380 spotify:artist:6D8m8pBw3RkQ1TAi1bF2e1",
+    "provisional_intent": "general_question",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 137,
+    "text": "@SpotifyCares DM?",
+    "provisional_intent": "playback_issue",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 138,
+    "text": "@SpotifyCares Everytime i contact support they screw this up and youre losing a customer for life at this point. I want my Facebook info gone. Completely fucking gone. I never ever ever want to receive a welcome back to Facebook email ever again after signing in to Spotify.",
+    "provisional_intent": "feature_request",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 139,
+    "text": "Dear @115888 I am unable to invite family members to my premium account, so you have customer service? #1984 #brazil #MrRobot #music",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 140,
+    "text": "@.spotify will there be any promos soon 😭😭",
+    "provisional_intent": "availability_region",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 141,
+    "text": "@SpotifyCares, Received the email yesterday offering Premium for $99/year. Trying to accept offer now, but getting \"appears not eligible\" msg. Love the service, have been paid sbscrbr for years; what gives?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 142,
+    "text": "@SpotifyCares I have logged in to multiple devices as well. All iPhones with iOS 11 updates. Same problem",
+    "provisional_intent": "other",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 143,
+    "text": "Yo @SpotifyCares there seems to be a general problem with your service right now. Songs are freezing, or not loading. Both webservice and app.",
+    "provisional_intent": "other",
+    "intent": "playback_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 144,
+    "text": "@SpotifyCares Can you cancel my account please?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 145,
+    "text": "@115888 why is it doing this? https://t.co/89rfzfO5KN",
+    "provisional_intent": "music_availability",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 146,
+    "text": "@SpotifyCares why is my account disabled just bc I ended my own premium account and switched to a family plan.?",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 147,
+    "text": "@SpotifyCares I got the student subscription but it says it won’t start until December 30th.",
+    "provisional_intent": "playback_issue",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 148,
+    "text": "i wish christina aguilera’s version of run to you were on spotify",
+    "provisional_intent": "feature_request",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 149,
+    "text": "@SpotifyCares I am so sick that I am forced to re-download my playlists non-top. I went from  #groovemusic with no problems to this. :/",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 150,
+    "text": "@115888 i set my font to the smallest why did this happen https://t.co/y7HzxXdakA",
+    "provisional_intent": "music_availability",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 151,
+    "text": "@SpotifyCares how do I get onto an account that has premium but I have no access to? Or cancel it?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 152,
+    "text": "@115888 is the new taylor swift album going to be on spotify?",
+    "provisional_intent": "app_technical_issue",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 153,
+    "text": "@115888 I demand this atrocity you call \"daily mix 3\" is removed from my account asap. honestly I've never been so disgusted by a playlist. https://t.co/sVOtFu7R1u",
+    "provisional_intent": "music_availability",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 154,
+    "text": "Y'all know I  love Taylor Swift, but I have a bone to pick. Why is her new album not on @115888?? I mean genius move but still. https://t.co/iXRXilmtpG",
+    "provisional_intent": "playback_issue",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 155,
+    "text": "@SpotifyCares Samsung J7 Prime, Android 6.0.1, version 8.4.23.784? it updated when i was sleeping. i used it prior the update.",
+    "provisional_intent": "playback_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 156,
+    "text": "@SpotifyCares @117153 already paid spotify premium payment,  but still not working (still free user). https://t.co/GmmVlCvlb9",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 157,
+    "text": "Yo @115888 I think you should looking into adding Slade’s albums over 900,000 are waiting #sladeonspotify https://t.co/jKQ5BEKYqb",
+    "provisional_intent": "playback_issue",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 158,
+    "text": "@SpotifyCares If I buy Amazon echo in India, would I be able to play Spotify music in that device?",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 159,
+    "text": "Shout out to @SpotifyCares for the best customer service experience I’ve ever had!",
+    "provisional_intent": "app_technical_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 160,
+    "text": "@SpotifyCares Hey, the issue's all fixed now. My card was charged today. Thanks! 👍",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 161,
+    "text": "@SpotifyCares Hi Spotify, I've sent you a dm. Please check 😊",
+    "provisional_intent": "feature_request",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 162,
+    "text": "@115888 fix this, I could buy 10,000 albums to fit in my house, let me do that on a digital device! https://t.co/3qPCm7xGFs",
+    "provisional_intent": "availability_region",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 163,
+    "text": "@115888 My account's hacked and I've e-mailed you back about the case. Mind taking a quick look? My work day will be bland without you :(",
+    "provisional_intent": "account_login",
+    "intent": "account_login",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 164,
+    "text": "@SpotifyCares Yes",
+    "provisional_intent": "playback_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 165,
+    "text": "My credit card was hacked hours after updating my @115888 payment info.... HMMMMMMM",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 166,
+    "text": "@115888 What if I already pay $10 a month for spotify premium?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 167,
+    "text": "Hey @115888 @116130 When are you going to support Chromecast devices from the Desktop client ? Sucks having to use mobile app.",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 168,
+    "text": "@SpotifyCares my premium is suddenly free, but I did not reiceive any emails about payment failing (no spam either). It says free in account",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 169,
+    "text": "@115888 - if https://t.co/1JCjhPNULt have been charging me £9.99 via my phone bill for Premium service - yet I am still on Free with you - who refunds me the charges? Thanks.",
+    "provisional_intent": "other",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 170,
+    "text": "Bakit kapag sa smart TV, hindi shuffled plus unlimited skips kahit free lang naman subscription ko? 😂 @115888 https://t.co/fbhWnTjdVL",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 171,
+    "text": "@117153 paid for student Spotify and it won’t link to the Hulu account and I have paid for both.",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 172,
+    "text": "@SpotifyCares Thanks for seeing this! Hopefully one day this may be a promotion because I’d be signing up ASAP!",
+    "provisional_intent": "music_availability",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 173,
+    "text": "Is the trippie redd event free? @SpotifyCares",
+    "provisional_intent": "app_technical_issue",
+    "intent": "general_question",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 174,
+    "text": "@115888 why is my premium subscription have ads all of a sudden and won’t let me get rid of that?",
+    "provisional_intent": "premium_subscription",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 175,
+    "text": "@SpotifyCares got PW reset message, follow link, enter new password but then get this message. Generate new reset e-mail, same thing. Happening on Chrome and Firefox. Help? https://t.co/7AATasWWBZ",
+    "provisional_intent": "other",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 176,
+    "text": "Wish: there was a @115888 filter that excluded music made with a vocaliser",
+    "provisional_intent": "playback_issue",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 177,
+    "text": "@SpotifyCares when is Spotify going to be available in Egypt?",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 178,
+    "text": "@SpotifyCares hello i need my account cancelled and refunded",
+    "provisional_intent": "account_login",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 179,
+    "text": "@115888 How can I avail of this service with this promo?",
+    "provisional_intent": "other",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 180,
+    "text": "@SpotifyCares hi, I should get student discount but have been charged 14.99 this month? Anyway I can get my money back and sort the student discount out? Thanks",
+    "provisional_intent": "other",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 181,
+    "text": "@SpotifyCares You better not be late! https://t.co/hPTQBBUdAM",
+    "provisional_intent": "playback_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 182,
+    "text": "@SpotifyCares I am also concerned about my personal details on my account and losing all of my many playlists (I pay for Premium and Spotify is the only site I use for my music).",
+    "provisional_intent": "premium_subscription",
+    "intent": "account_login",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 183,
+    "text": "@SpotifyCares Using an iPhone 6s on latest iOS. Can we show some love for older models that still work fine?? 😫😫",
+    "provisional_intent": "general_question",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 184,
+    "text": "@115888 can you please make it available in India😭😭😭",
+    "provisional_intent": "availability_region",
+    "intent": "availability_region",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 185,
+    "text": "@spotifycares please help with a billing issue...we have been billed for several months after cancellation",
+    "provisional_intent": "other",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 186,
+    "text": "@SpotifyCares Been listening to my 'Time Capsule' playlist all evening. So good. 👌🏻",
+    "provisional_intent": "playlist_library",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 187,
+    "text": "@115888 @spotifycares FOR THE LOVE OF GOD PLEASE LET ME BAN ARTISTS FROM SHOWING UP IN MY RADIO OR WEEKLY RECCOMENDATION PLAYLIST.",
+    "provisional_intent": "playlist_library",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 188,
+    "text": "@115888 @117168 I miss you start already!!",
+    "provisional_intent": "feature_request",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 189,
+    "text": "@117168 why was Jersey Devil by Ducktails removed?",
+    "provisional_intent": "music_availability",
+    "intent": "music_availability",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 190,
+    "text": "Hey @SpotifyCares - why can't I update my payment details?",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 191,
+    "text": "@SpotifyCares my downloaded library is in the minus? Why? https://t.co/CmGVDVIDKZ",
+    "provisional_intent": "availability_region",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 192,
+    "text": "@115888 yea can i get uhhhh the feature where u press down on tracks to preview them back",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 193,
+    "text": "Wow, the @115888 android app is getting worse and worse...thanks for that, guys.",
+    "provisional_intent": "app_technical_issue",
+    "intent": "app_technical_issue",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 194,
+    "text": "Um @115888 https://t.co/OyObuwjodf",
+    "provisional_intent": "playback_issue",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 195,
+    "text": "@SpotifyCares All i was saying was instead of people from australia  using there credit/debit cards.....use a pay pal account and it will work",
+    "provisional_intent": "payment_billing",
+    "intent": "payment_billing",
+    "should_escalate": true,
+    "annotator": "student"
+  },
+  {
+    "id": 196,
+    "text": "@SpotifyCares Are you guys ever going to increase the download limit?",
+    "provisional_intent": "feature_request",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 197,
+    "text": "@SpotifyCares Yeah I do, just these two songs (just noticed another repeat offender 😅) keep popping up. If the team come back with something let me know 👍",
+    "provisional_intent": "playback_issue",
+    "intent": "playlist_library",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 198,
+    "text": "It’d be pretty neat if I could see who follows my playlists @115888",
+    "provisional_intent": "playlist_library",
+    "intent": "feature_request",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 199,
+    "text": "@SpotifyCares hello.. I cannot accept the invitation to Family Plan. Please help!",
+    "provisional_intent": "other",
+    "intent": "premium_subscription",
+    "should_escalate": false,
+    "annotator": "student"
+  },
+  {
+    "id": 200,
+    "text": "@SpotifyCares Answer my DM! Urgent, thanks.",
+    "provisional_intent": "playlist_library",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "student"
+  }
+]
