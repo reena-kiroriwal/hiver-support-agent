@@ -271,37 +271,46 @@ class PrimarySupportAgent:
         similarity,
         message
     ):
-
         text = message.lower()
 
+        # Always escalate explicit security/fraud/payment-risk signals.
         for phrase in RISK_PHRASES:
-
             if phrase in text:
-
                 return (
                     True,
                     f"Sensitive issue detected: {phrase}"
                 )
 
-        if confidence < 0.45:
+        # Strong historical evidence can compensate for lower
+        # classifier confidence for non-sensitive intents.
+        if (
+            intent not in SENSITIVE_INTENTS
+            and similarity >= 0.75
+            and confidence >= 0.15
+        ):
+            return (
+                False,
+                "Strong historical match with sufficient intent support."
+            )
 
+        # For weaker evidence, use the normal confidence threshold.
+        if confidence < 0.45:
             return (
                 True,
                 "Intent confidence is below the auto-handling threshold."
             )
 
         if similarity < 0.50:
-
             return (
                 True,
                 "No sufficiently similar historical case was found."
             )
 
+        # Stay conservative for sensitive intents.
         if (
             intent in SENSITIVE_INTENTS
             and confidence < 0.70
         ):
-
             return (
                 True,
                 "Sensitive account/payment intent with insufficient confidence."

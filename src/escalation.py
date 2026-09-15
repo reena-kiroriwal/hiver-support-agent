@@ -21,46 +21,49 @@ SENSITIVE_INTENTS = [
 
 
 def decide(intent, intent_confidence, retrieval_similarity, message):
-    """
-    Decide whether the AI should handle the request
-    or send it to a human.
-    """
-
     text = message.lower()
 
-    # 1. Explicitly risky/security-related language
+    # Always escalate explicit security/fraud/payment-risk signals.
     for phrase in RISK_PHRASES:
         if phrase in text:
             return (
                 "ESCALATE",
-                f"The message contains a potentially sensitive issue "
-                f"('{phrase}') that requires human review."
+                f"The message contains a potentially sensitive issue ('{phrase}') that requires human review."
             )
 
-    # 2. Low confidence
+    # Very strong historical evidence can compensate for low TF-IDF
+    # confidence when the intent itself is not sensitive.
+    if (
+        intent not in SENSITIVE_INTENTS
+        and retrieval_similarity >= 0.75
+        and intent_confidence >= 0.15
+    ):
+        return (
+            "AUTO_HANDLE",
+            "A highly similar historical case was found and the predicted intent has sufficient supporting confidence."
+        )
+
+    # For weaker retrieval evidence, require normal classifier confidence.
     if intent_confidence < 0.45:
         return (
             "ESCALATE",
-            "The intent classifier is not sufficiently confident."
+            "Intent confidence is below the auto-handling threshold."
         )
 
-    # 3. Weak historical evidence
     if retrieval_similarity < 0.50:
         return (
             "ESCALATE",
             "No sufficiently similar historical Spotify case was found."
         )
 
-    # 4. Sensitive intent gets a stricter confidence requirement
+    # Sensitive intents remain conservative.
     if intent in SENSITIVE_INTENTS and intent_confidence < 0.70:
         return (
             "ESCALATE",
-            "This is a sensitive account/payment issue and "
-            "the classifier confidence is not high enough."
+            "This is a sensitive account/payment issue and the classifier confidence is not high enough."
         )
 
     return (
         "AUTO_HANDLE",
-        "The intent is sufficiently confident and a similar "
-        "historical Spotify case was found."
+        "The intent is sufficiently confident and a similar historical case was found."
     )
