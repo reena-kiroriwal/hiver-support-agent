@@ -2,8 +2,8 @@
   "metrics": {
     "intent_accuracy": 0.455,
     "intent_macro_f1": 0.44898465974538515,
-    "escalation_precision": 0.095,
-    "escalation_recall": 1.0
+    "escalation_precision": 0.1,
+    "escalation_recall": 0.9473684210526315
   },
   "results": [
     {
@@ -272,11 +272,11 @@
       "gold_intent": "availability_region",
       "pred_intent": "availability_region",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.16326673310356257,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -584,11 +584,11 @@
       "gold_intent": "availability_region",
       "pred_intent": "availability_region",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.15638646997220898,
       "retrieval_similarity": 0.9999998807907104,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -610,11 +610,11 @@
       "gold_intent": "other",
       "pred_intent": "app_technical_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.15138360313833996,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -766,11 +766,11 @@
       "gold_intent": "app_technical_issue",
       "pred_intent": "app_technical_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.17525176031940987,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -831,11 +831,11 @@
       "gold_intent": "app_technical_issue",
       "pred_intent": "playback_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.18887593088917864,
       "retrieval_similarity": 1.0000001192092896,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -857,11 +857,11 @@
       "gold_intent": "feature_request",
       "pred_intent": "feature_request",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.183704164879538,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -948,11 +948,11 @@
       "gold_intent": "other",
       "pred_intent": "other",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.15568553824192127,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1260,11 +1260,11 @@
       "gold_intent": "other",
       "pred_intent": "other",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.15328125175442886,
       "retrieval_similarity": 0.9999998807907104,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1286,11 +1286,11 @@
       "gold_intent": "app_technical_issue",
       "pred_intent": "app_technical_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.1557268175401794,
       "retrieval_similarity": 0.9999999403953552,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1299,11 +1299,11 @@
       "gold_intent": "feature_request",
       "pred_intent": "availability_region",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.15820364248622928,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1338,11 +1338,11 @@
       "gold_intent": "general_question",
       "pred_intent": "general_question",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.16727693549704337,
       "retrieval_similarity": 1.000000238418579,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1546,11 +1546,11 @@
       "gold_intent": "other",
       "pred_intent": "other",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.17052537497589138,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1559,11 +1559,11 @@
       "gold_intent": "app_technical_issue",
       "pred_intent": "app_technical_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.15887310499214793,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1637,11 +1637,11 @@
       "gold_intent": "app_technical_issue",
       "pred_intent": "app_technical_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.16168661480253418,
       "retrieval_similarity": 1.000000238418579,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -1884,11 +1884,11 @@
       "gold_intent": "other",
       "pred_intent": "music_availability",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.17568740167810717,
       "retrieval_similarity": 1.0000001192092896,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -2300,11 +2300,11 @@
       "gold_intent": "availability_region",
       "pred_intent": "availability_region",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.1974420202223262,
       "retrieval_similarity": 1.0000001192092896,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -2391,11 +2391,11 @@
       "gold_intent": "availability_region",
       "pred_intent": "availability_region",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.16192844476643226,
       "retrieval_similarity": 1.000000238418579,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -2404,11 +2404,11 @@
       "gold_intent": "payment_billing",
       "pred_intent": "other",
       "gold_escalate": true,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.18277227213926406,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -2456,11 +2456,11 @@
       "gold_intent": "music_availability",
       "pred_intent": "music_availability",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.1522664975296809,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
@@ -2508,11 +2508,11 @@
       "gold_intent": "app_technical_issue",
       "pred_intent": "app_technical_issue",
       "gold_escalate": false,
-      "pred_escalate": true,
+      "pred_escalate": false,
       "intent_confidence": 0.1581382838797694,
       "retrieval_similarity": 1.0,
-      "escalation_reason": "Intent confidence is below the auto-handling threshold.",
-      "reply": "This issue needs additional review by support. Please use the official Spotify support channel so the account-specific details can be checked.",
+      "escalation_reason": "Strong historical match with sufficient intent support.",
+      "reply": "Thanks for reaching out. We can help with this Spotify issue. Please follow the relevant Spotify support guidance for your account.",
       "grounded": false
     },
     {
