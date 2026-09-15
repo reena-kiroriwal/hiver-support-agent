@@ -1,0 +1,30 @@
+{
+  "intent_accuracy": {
+    "estimate": 0.45458999999999994,
+    "lower_95": 0.385,
+    "upper_95": 0.525,
+    "bootstrap_samples": 5000,
+    "seed": 42
+  },
+  "intent_macro_f1": {
+    "estimate": 0.4421877017352248,
+    "lower_95": 0.3774130692815559,
+    "upper_95": 0.5089530270482782,
+    "bootstrap_samples": 5000,
+    "seed": 42
+  },
+  "escalation_precision": {
+    "estimate": 0.09976484068419772,
+    "lower_95": 0.05714285714285714,
+    "upper_95": 0.14594594594594595,
+    "bootstrap_samples": 5000,
+    "seed": 42
+  },
+  "escalation_recall": {
+    "estimate": 0.9465793435709106,
+    "lower_95": 0.8233957219251337,
+    "upper_95": 1.0,
+    "bootstrap_samples": 5000,
+    "seed": 42
+  }
+}
